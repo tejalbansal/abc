@@ -3,3 +3,8 @@ it provides all the configuration files required for establishing remote connect
 azexghkjlkblig
 git status
 to see if the file is added to the git
+git add . for all files in current directory
+to add the current file's local copy to git
+git commit -m(message) tag in double quotes
+local and remote connected using push 
+git push -u original master
