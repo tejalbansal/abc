@@ -1,0 +1,5 @@
+git init
+it provides all the configuration files required for establishing remote connection
+azexghkjlkblig
+git status
+to see if the file is added to the git
